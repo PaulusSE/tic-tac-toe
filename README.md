@@ -1,2 +1,2 @@
-# week_01
+# tic-tac-toe
 Homework
